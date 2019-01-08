@@ -5,3 +5,5 @@ let currying = function(fn) {
         return fn.apply(null, newArgs);
     };
 };
+
+module.exports = currying;
