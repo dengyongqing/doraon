@@ -1,6 +1,6 @@
 {
   "name": "doraon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "doraon工具库",
   "main": "min/doraon.min.js",
   "types": "index.d.ts",
